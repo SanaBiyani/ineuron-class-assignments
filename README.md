@@ -1,3 +1,3 @@
 # ineuron-class-assignments
-python assignments
-excel assignments
+1.python assignments
+2.excel assignments
